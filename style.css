@@ -3,3 +3,8 @@ p{
     font-size: xx-large;
     font-style: italic;
 }
+li {
+    color: brown;
+    font-size: 3em;
+    font-family: cursive;
+}
